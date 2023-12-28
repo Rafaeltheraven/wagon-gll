@@ -1,0 +1,21 @@
+[package]
+name = "wagon-gll"
+version.workspace = true
+authors.workspace = true
+license.workspace = true
+categories.workspace = true
+keywords.workspace = true
+repository.workspace = true
+edition.workspace = true
+description = "GLL library for WAGon generated parsers."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+derivative = "2.2.0"
+indexmap = {workspace = true}
+ordered-float = {workspace = true}
+petgraph = {workspace = true}
+rand_core = "0.6.4"
+wagon-ident = {workspace = true}
+wagon-codegen = {workspace = true}
