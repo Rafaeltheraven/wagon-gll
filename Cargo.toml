@@ -2,7 +2,7 @@
 name = "wagon-gll"
 version = "1.0.0"
 authors = ["Rafael Dulfer"]
-license = "Apache"
+license = "Apache-2.0"
 categories = ["parsing", "parser-implementations"]
 keywords = ["parsing", "gll", "weighted attribute grammar"]
 repository = "https://github.com/Rafaeltheraven/wagon-gll"
