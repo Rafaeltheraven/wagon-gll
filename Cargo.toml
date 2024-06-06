@@ -19,10 +19,10 @@ ordered-float = "3.9.1"
 petgraph = {version = "0.6.3", default-features = false}
 thiserror = "1.0.57"
 rand_core = "0.6.4"
-wagon-ident = {path = "../wagon/wagon-ident"}
-wagon-value = {path = "../wagon/wagon-value"}
-wagon-utils = {path = "../wagon/wagon-utils"}
-wagon-macros = {path = "../wagon/wagon-macros"}
+wagon-ident = "1.0.0"
+wagon-value = "1.0.0"
+wagon-utils = "1.0.0"
+wagon-macros = "1.0.0"
 regex-automata = "0.4.4"
 v_latexescape = "0.14.8"
 
